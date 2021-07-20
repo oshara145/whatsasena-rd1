@@ -12,7 +12,7 @@
             "WARN": "Warn"
         },
         "_plugin": {
-            "INSTALL_DESC": "Install external plugins.",
+            "INSTALL_DESC": "Install external plugins. By RD",
             "NEED_URL": "Please enter a URL! Example:",
             "UNOFF": "⚠️ *Attention!* \n*The plugin you have installed is not official!*",
             "INVALID_URL": "```Please enter a valid url!```",
